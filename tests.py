@@ -1,3 +1,5 @@
+# Just comment the unnecessary before running the file
+
 from functions.get_files_info import get_files_info
 from functions.get_file_content import get_file_content
 from functions.write_files import write_file

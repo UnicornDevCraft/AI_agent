@@ -1,4 +1,4 @@
-# render.py
+# render.py provided by the course
 
 def render(expression, result):
     if isinstance(result, float) and result.is_integer():

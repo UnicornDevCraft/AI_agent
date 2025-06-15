@@ -1,3 +1,6 @@
+# The most interesting part was here I believe. Everything became useful and understandable. 
+# The nicest part -> it works. But need to be careful with the access due to the security reasons.
+
 import os
 import sys
 from dotenv import load_dotenv

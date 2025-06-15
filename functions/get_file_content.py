@@ -1,9 +1,9 @@
 import os
 
 """
-Well I overdone it a bit to check the contents of the folder in recursive manner, I am not going to delete it.
-but still the simplier way should be choosen
- 
+Well I overdone it a bit to check the contents of the folder in recursive manner, I am not going to delete it for now.
+but still the simplier way should be chosen
+
 def get_contents_relative_path(working_directory, filename):
     file_paths = []
     try:

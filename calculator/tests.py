@@ -1,3 +1,5 @@
+# Provided by the course
+
 import unittest
 from calculator import calculate
 

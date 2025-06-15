@@ -1,4 +1,4 @@
-# main.py
+# main.py provided by the course
 
 import sys
 from pkg.calculator import Calculator

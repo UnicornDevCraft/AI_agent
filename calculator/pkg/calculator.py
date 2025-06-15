@@ -1,4 +1,4 @@
-# calculator.py
+# calculator.py provided by the course
 
 class Calculator:
     def __init__(self):
